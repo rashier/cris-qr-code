@@ -20,6 +20,8 @@ body {
   background-color: hsl(0, 0%, 100%);
   padding: 1rem 1rem;
   border-radius: 1rem;
+  box-shadow: 3px 22px 3px 10px hsl(211, 46%, 88%);
+
 }
 figure {
   background-color: hsl(0, 0%, 100%);
